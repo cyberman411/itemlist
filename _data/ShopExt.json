@@ -4324,7 +4324,7 @@
       "name": "gourmet",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
+      "addPrice": 1000,
       "removePrice": 100,
       "degree": 0
     },
@@ -4544,7 +4544,7 @@
       "name": "coordinated",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
+      "addPrice": 3000,
       "removePrice": 100,
       "degree": 1
     },
@@ -5716,7 +5716,7 @@
       "name": "greenthumb",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
+      "addPrice": 1000,
       "removePrice": 100,
       "degree": 0
     },
@@ -6074,7 +6074,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2000
+      "price": 2500
     },
     {
       "data": {
@@ -6096,7 +6096,7 @@
       "defName": "O21_OR_Chiss",
       "enabled": true,
       "name": "Chiss",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6140,7 +6140,7 @@
       "defName": "O21_OR_Wookiee",
       "enabled": true,
       "name": "wookiee",
-      "price": 2
+      "price": 1313
     },
     {
       "data": {
@@ -6162,7 +6162,7 @@
       "defName": "O21_OR_MonCalamari",
       "enabled": true,
       "name": "Mon Calamari",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6184,7 +6184,7 @@
       "defName": "O21_OR_Quarren",
       "enabled": true,
       "name": "Quarren",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6206,7 +6206,7 @@
       "defName": "O21_OR_Gungan",
       "enabled": true,
       "name": "gungan",
-      "price": 2000
+      "price": 1313
     },
     {
       "data": {
@@ -6228,7 +6228,7 @@
       "defName": "O21_OR_Rakata",
       "enabled": true,
       "name": "rakata",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6272,7 +6272,7 @@
       "defName": "O21_OR_Tusken",
       "enabled": true,
       "name": "Tusken",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6298,7 +6298,7 @@
       "defName": "O21_OR_HK47Droid",
       "enabled": true,
       "name": "HK-47 Assassin Droid",
-      "price": 3333
+      "price": 2500
     },
     {
       "data": {
@@ -6324,7 +6324,7 @@
       "defName": "O21_OR_HK50Droid",
       "enabled": true,
       "name": "HK-50 Assassin Droid",
-      "price": 3333
+      "price": 2750
     },
     {
       "data": {
@@ -6350,7 +6350,7 @@
       "defName": "O21_OR_HK51Droid",
       "enabled": true,
       "name": "HK-51 Assassin Droid",
-      "price": 3333
+      "price": 3000
     },
     {
       "data": {
@@ -6376,7 +6376,7 @@
       "defName": "O21_OR_BattleDroid",
       "enabled": true,
       "name": "B1 Battle Droid",
-      "price": 2500
+      "price": 1500
     },
     {
       "data": {
@@ -6402,7 +6402,7 @@
       "defName": "O21_OR_CommandoDroid",
       "enabled": true,
       "name": "BX Commando Droid",
-      "price": 3333
+      "price": 3000
     },
     {
       "data": {
@@ -6481,7 +6481,7 @@
       "defName": "O21_OR_SuperBattleDroid",
       "enabled": true,
       "name": "B2 Super Battle Droid",
-      "price": 1667
+      "price": 2500
     },
     {
       "data": {
@@ -6508,7 +6508,7 @@
       "defName": "O21_OR_SuperTacticalDroid",
       "enabled": true,
       "name": "Super Tactical Droid",
-      "price": 1250
+      "price": 1500
     },
     {
       "data": {
@@ -6534,7 +6534,7 @@
       "defName": "O21_OR_TacticalDroid",
       "enabled": true,
       "name": "T-Series Tactical Droid",
-      "price": 3333
+      "price": 3000
     },
     {
       "data": {
@@ -6556,7 +6556,7 @@
       "defName": "O21_OR_CloneTrooper",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 2500
     },
     {
       "data": {
@@ -6578,7 +6578,7 @@
       "defName": "O21_OR_Abednedo",
       "enabled": true,
       "name": "Abednedo",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6600,7 +6600,7 @@
       "defName": "O21_OR_Aqualish",
       "enabled": true,
       "name": "Aqualish",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6622,7 +6622,7 @@
       "defName": "O21_OR_Bith",
       "enabled": true,
       "name": "Bith",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6644,7 +6644,7 @@
       "defName": "O21_OR_Cerean",
       "enabled": true,
       "name": "Cerean",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6667,7 +6667,7 @@
       "defName": "O21_OR_Devaronian",
       "enabled": true,
       "name": "Devaronian",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6689,7 +6689,7 @@
       "defName": "O21_OR_Duros",
       "enabled": true,
       "name": "Duros",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6777,7 +6777,7 @@
       "defName": "O21_OR_Mirialan",
       "enabled": true,
       "name": "Mirialan",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6799,7 +6799,7 @@
       "defName": "O21_OR_Neimoidian",
       "enabled": true,
       "name": "Neimoidian",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6821,7 +6821,7 @@
       "defName": "O21_OR_Nikto",
       "enabled": true,
       "name": "Nikto",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6843,7 +6843,7 @@
       "defName": "O21_OR_Selkath",
       "enabled": true,
       "name": "Selkath",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6865,7 +6865,7 @@
       "defName": "O21_OR_Sith",
       "enabled": true,
       "name": "Sith",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6887,7 +6887,7 @@
       "defName": "O21_OR_Togruta",
       "enabled": true,
       "name": "Togruta",
-      "price": 2917
+      "price": 1313
     },
     {
       "data": {
@@ -6931,7 +6931,7 @@
       "defName": "O21_OR_Twilek",
       "enabled": true,
       "name": "Twi'lek",
-      "price": 2000
+      "price": 1313
     }
   ]
 }
