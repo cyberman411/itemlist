@@ -11443,24 +11443,6 @@
 		"defname": "O21_OR_PowerCrystal_Adegan"
 	},
 	{
-		"abr": "aiwha",
-		"price": 6667,
-		"category": "Animals",
-		"defname": "Aiwha"
-	},
-	{
-		"abr": "aiwhaleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Aiwha"
-	},
-	{
-		"abr": "aiwhameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Aiwha"
-	},
-	{
 		"abr": "alienleather",
 		"price": 7,
 		"category": "Leathers",
@@ -12661,24 +12643,6 @@
 		"defname": "O21_OR_PowerCrystal_KraytPearl"
 	},
 	{
-		"abr": "krill",
-		"price": 25,
-		"category": "Animals",
-		"defname": "Krill"
-	},
-	{
-		"abr": "krill",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Krill"
-	},
-	{
-		"abr": "krillshell",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Leather_Krill"
-	},
-	{
 		"abr": "kybercrystal(blue)",
 		"price": 2500,
 		"category": "Kyber Crystals",
@@ -12983,12 +12947,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "O21_OR_Sith"
-	},
-	{
-		"abr": "slime",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawSlime"
 	},
 	{
 		"abr": "smallinfernospewer",
@@ -13999,47 +13957,77 @@
 		"defname": "ChunkGranite"
 	},
 	{
-		"abr": "limestonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkLimestone"
-	},
-	{
-		"abr": "marblechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkMarble"
-	},
-	{
-		"abr": "sandstonechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkSandstone"
-	},
-	{
-		"abr": "slatechunk",
-		"price": 4,
-		"category": "Stone chunks",
-		"defname": "ChunkSlate"
-	},
-	{
-		"abr": "sniperturret",
-		"price": 1092,
-		"category": "Security",
-		"defname": "SniperTurretGun"
-	},
-	{
-		"abr": "mine",
-		"price": 383,
-		"category": "",
-		"defname": "MinesAutomated_ThingDef_Mine"
-	},
-	{
 		"abr": "advancedassembler",
 		"price": 8200,
 		"category": "Production",
 		"defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler"
-	}
+	},
+	{
+		"abr": "blastturret",
+		"price": 3492,
+		"category": "Security",
+		"defname": "BlastTurretGun"
+	},
+	{
+		"abr": "deathsuperacidifier",
+		"price": 1500,
+		"category": "Bionic",
+		"defname": "VESWW_DeathSuperAcidifier"
+	},
+	{
+		"abr": "devastatormortar",
+		"price": 5742,
+		"category": "Security",
+		"defname": "Turret_DevastatorMortarBomb"
+	},
+	{
+		"abr": "guncomplex",
+		"price": 1125,
+		"category": "Security",
+		"defname": "GunComplex"
+	},
+	{
+		"abr": "mannedblastturret",
+		"price": 3492,
+		"category": "Security",
+		"defname": "BlastTurretGunManned"
+	},
+	{
+		"abr": "mannedprecisionturret",
+		"price": 2025,
+		"category": "Security",
+		"defname": "PrecisionTurretGunManned"
+	},
+	{
+		"abr": "mannedsentrygun",
+		"price": 1192,
+		"category": "Security",
+		"defname": "MilitaryTurretGunManned"
+	},
+	{
+		"abr": "mannedshredderturret",
+		"price": 1408,
+		"category": "Security",
+		"defname": "ShredderTurretGunManned"
+	},
+	{
+		"abr": "plasmapowercell",
+		"price": 1117,
+		"category": "Items",
+		"defname": "PlasmaPowerCell"
+	},
+	{
+		"abr": "precisionturret",
+		"price": 2025,
+		"category": "Security",
+		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "rocketcomplex",
+		"price": 1700,
+		"category": "Security",
+		"defname": "RocketComplex"
+	},
 	],
-	"total": 2340
+	"total": 2342
 }

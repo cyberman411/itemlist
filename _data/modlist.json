@@ -648,27 +648,45 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "FantasyFan and  Lumi",
-    "name": "Star Wars - Biomes Addon",
-    "steamId": "2298926362",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Odeum",
-    "name": "World Map Beautification Project",
-    "steamId": "2314407956",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "Carolusclen",
-    "name": "World Map Beautification Project - Star Wars Biomes Addon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "StatistNo1, Rebel_Rabbit and Cain",
     "name": "Mines 2.0",
     "steamId": "2503894706",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Shield Generators",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Geothermal Coolers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Adjustable Gauranlen",
+    "steamId": "2560002213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "Rah",
+    "name": "Rah's Vanilla Turrets Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carrics",
+    "name": "Turbolaser Turret",
+    "steamId": null,
+    "version": null
   }
 ]
